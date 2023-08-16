@@ -1,0 +1,45 @@
+#main_container {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    height: 624px;
+    width: 624px;
+    box-sizing: content-box;
+    border: 4px solid green;
+   
+}
+body{
+    display: flex;
+    flex: 1;
+    justify-content: center
+}
+.start{
+    position: fixed;
+    top: 743px;
+    left: 200px;
+    height: 43px;
+    width: 1px;
+    border: solid;
+}
+.start{
+    position: fixed;
+    top: 743px;
+    left: 200px;
+    height: 43px;
+    width: 102px;
+    border: solid;
+    left: 200px;
+    height: 10px;
+    width: 30px;
+    border: solid;
+}
+.miniDiv {
+    /* background-color:white; */
+    box-sizing: content-box;
+    border: .010px solid black;
+    height:36.5px;
+    width: 36.5px;
+    background-color: white;
+    margin: .01px;
+    border-radius: 3px;
+}
